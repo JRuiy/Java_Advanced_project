@@ -1,14 +1,7 @@
 HELP.md
 */wrapper/maven-wrapper.jar
 .metadata
-.metadata/.*
-.metadata/
-.metadata
-**/metadata/*
-**/.metadata/*
-/metadata/
-/.metadata/
-./metadata/
+Servers/*
 
 ### STS ###
 .apt_generated
@@ -35,3 +28,4 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+/target/
